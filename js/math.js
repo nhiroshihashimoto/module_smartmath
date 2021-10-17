@@ -23,7 +23,7 @@
         '42+12(34*2*4)40,2*4',
         '13*(24+2*4)+4,6*6,3',
         '12*(30)+',
-        'text'
+        'Equação errada'
     ];
 
     equacoes.forEach((obj)=>{console.log('Equation:', obj, '=', resolve(obj))});
