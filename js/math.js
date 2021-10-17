@@ -3,7 +3,7 @@
     // ------------ Configs ------------
     var showSequence = false;
     var decimal = 'auto'; // ('auto', 0, 1, 2...)
-    var dotToComma = true;
+    var comma = true;
 
     // ------------ Function ------------
     function resolve(input){
