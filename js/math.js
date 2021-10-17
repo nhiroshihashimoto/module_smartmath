@@ -7,7 +7,7 @@
 
     // ------------ Function ------------
     function resolve(input){
-        return Resolve.resolve(input,showSequence,decimal,dotToComma);
+        return Resolve.resolve(input,showSequence,decimal,comma);
     }
 
 
